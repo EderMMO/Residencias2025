@@ -25,10 +25,12 @@ Permite consultar y registrar indicadores académicos como índices de aprobaci�
 - **Administrativos:** consulta y registro de nuevos datos.  
 
 ---
+## Asesor Externo
+-Jose Esaú Melendez Segura
 
 ## Equipo
 - Óscar Eduardo Medina Martínez  
 - Rufino Botello Santos
   
-## Asesor Externo
--Jose Esaú Melendez Segura 
+ 
+
